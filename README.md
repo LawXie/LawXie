@@ -8,7 +8,7 @@ In my passing time, I taught myself Python and Supervised Learning. I intend to 
 
 Domain: Data Science, Data Visualization, Supervised Learning.
 
-Language: Python.
+Language: Python, VBA
 
 Libraries & Tools: NumPy, Pandas, Scikit-Learn. 
 
