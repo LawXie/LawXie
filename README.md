@@ -2,7 +2,7 @@
 
 I am a Financial Analyst with an Economics degree from Northeastern University. I come with an extensive knowledge of finance and statistics through my education and vocation.  
 
-In my free time, I taught myself Python and Supervised Learning. I intend to use Machine Learning to further my expertise and statistical foundations. 
+In my free time, I taught myself Python and Supervised Learning. I intend to use Machine Learning to further my expertise and statistical foundations. Please check out my pin, ML-Portfolio, for more information.
 
 #### Expertise
 
